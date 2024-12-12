@@ -11,7 +11,7 @@ const About = () => {
              It is also a fashion accessory for men and women, and expensive watches are designed 
              for this purpose. A watch may be one of the few accessories worn by a person.<br/>
             A watch is a portable timepiece intended to be carried or worn by a person. 
-            It is designed to keep a consistent movement despite the motions caused by the person's activities.
+            It is designed to keep a consistent movement despite the motions caused by the persons activities.
 
             </p>
         </div>
